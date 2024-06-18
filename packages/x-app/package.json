@@ -1,0 +1,19 @@
+{
+  "name": "@quramy/x-app",
+  "version": "1.0.0",
+  "description": "Awesome App",
+  "main": "lib/main.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "quramy",
+  "license": "MIT",
+  "dependencies": {
+    "@quramy/x-core": "^1.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.4.3"
+  }
+}
